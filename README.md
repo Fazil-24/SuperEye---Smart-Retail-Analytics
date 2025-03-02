@@ -74,13 +74,13 @@ python app.py
 
 # How to Use SuperEye
 
-🔹 **Login to the Dashboard - Access SuperEye’s intuitive analytics dashboard.
+🔹 **Login to the Dashboard** - Access SuperEye’s intuitive analytics dashboard.
 
-🔹 **Monitor Live Feeds - Real-time analysis of customer movement and store insights.
+🔹 **Monitor Live Feeds** - Real-time analysis of customer movement and store insights.
 
-🔹 **View Heatmaps & Trajectories - Understand customer engagement areas.
+🔹 **View Heatmaps & Trajectories** - Understand customer engagement areas.
 
-🔹 **Detect Anomalies - AI-powered alerts for potential shoplifting.
+🔹 **Detect Anomalies** - AI-powered alerts for potential shoplifting.
 
 🔹 **Optimize Store Layout - Make data-driven decisions to improve customer flow.
 ---
@@ -93,13 +93,13 @@ python app.py
 ---
 
 ## 🤝 We welcome Contributions to this project.
-🔹 **Fork the Repository - Click the fork button at the top right of the GitHub page.
+🔹 **Fork the Repository** - Click the fork button at the top right of the GitHub page.
 
-🔹 **Clone Your Fork - Use git clone <your-fork-url> to clone your forked repo.
+🔹 **Clone Your Fork** - Use git clone <your-fork-url> to clone your forked repo.
 
-🔹 **Create a Feature Branch - git checkout -b feature-name
+🔹 **Create a Feature Branch** - git checkout -b feature-name
 
-🔹 **Commit Changes - git commit -m "Added a new feature"
+🔹 **Commit Changes** - git commit -m "Added a new feature"
 
-🔹 **Push & Submit a PR - git push origin feature-name and create a Pull Request.
+🔹 **Push & Submit a PR** - git push origin feature-name and create a Pull Request.
 

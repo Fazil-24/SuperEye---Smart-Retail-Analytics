@@ -82,7 +82,7 @@ python app.py
 
 🔹 **Detect Anomalies** - AI-powered alerts for potential shoplifting.
 
-🔹 **Optimize Store Layout - Make data-driven decisions to improve customer flow.
+🔹 **Optimize Store Layout - Make data-driven decisions to improve customer flow.**
 ---
 ## 🔭 Future Roadmap
 🔹 **AI Agents for Crowd Analysis** - Handle festival, clearance, & holiday crowds.  

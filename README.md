@@ -5,17 +5,17 @@
 ### One Eye - Multiple Visions
 
 ## 🚀 Overview
-**SuperEye** is an advanced AI-driven video analytics solution designed to enhance retail store operations. Using **Edge AI and Generative AI**, SuperEye provides **real-time insights** into **customer behavior, crowd density, shopping patterns, and security compliance.** This empowers retailers to **optimize store layouts, improve customer experience, and reduce shrinkage.**
+**SuperEye** is an advanced AI-driven video analytics solution designed to enhance retail store operations. Using **Edge AI and Generative AI**  , SuperEye provides **real-time insights**  into **customer behavior, crowd density, shopping patterns, and security compliance.** This empowers retailers to **optimize store layouts, improve customer experience, and reduce shrinkage.**
 
 ---
 
 ## 🔥 Key Features
-✅ **Crowd Counting** - Real-time analysis of foot traffic.
-✅ **Trajectory Tracking** - Monitor customer movement to optimize store layout.
-✅ **Heatmaps** - Visualize customer engagement areas in the store.
-✅ **Shoplifting Detection** - AI-powered anomaly detection to reduce shrinkage.
-✅ **Cart/Basket Detection** - Track shopping baskets for checkout optimization.
-✅ **Retail Dashboard** - Intuitive analytics dashboard for actionable insights.
+✅ **Crowd Counting** - Real-time analysis of foot traffic.  
+✅ **Trajectory Tracking** - Monitor customer movement to optimize store layout.  
+✅ **Heatmaps** - Visualize customer engagement areas in the store.  
+✅ **Shoplifting Detection** - AI-powered anomaly detection to reduce shrinkage.  
+✅ **Cart/Basket Detection** - Track shopping baskets for checkout optimization.  
+✅ **Retail Dashboard** - Intuitive analytics dashboard for actionable insights.  
 
 ---
 

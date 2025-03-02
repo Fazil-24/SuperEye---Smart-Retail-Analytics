@@ -1,5 +1,3 @@
-# SuperEye---Smart-Retail-Analytics
-
 # SuperEye - Intelligent AI-Powered Retail Analytics
 
 

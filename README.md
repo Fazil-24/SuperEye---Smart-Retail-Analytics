@@ -1,6 +1,6 @@
 # SuperEye - Intelligent AI-Powered Retail Analytics
 
-
+[Watch the SuperEye Demo] https://www.youtube.com/watch?v=6L8okXkNkyY
 
 ### One Eye - Multiple Visions
 

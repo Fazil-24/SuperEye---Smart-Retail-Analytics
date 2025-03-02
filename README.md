@@ -20,29 +20,29 @@
 ---
 
 ## 🛒 Problem Statement
-🔹 Retailers struggle to understand **customer behavior** and **optimize layouts** for better sales.
-🔹 **Peak-hour crowd management** is inefficient, leading to a **poor shopping experience**.
-🔹 **Shoplifting** causes **global revenue losses of $100B+ annually**.
-🔹 Retailers **lack real-time compliance insights** on safety measures.
+🔹 Retailers struggle to understand **customer behavior** and **optimize layouts** for better sales.  
+🔹 **Peak-hour crowd management** is inefficient, leading to a **poor shopping experience**.  
+🔹 **Shoplifting** causes **global revenue losses of $100B+ annually**.  
+🔹 Retailers **lack real-time compliance insights** on safety measures.  
 
 ---
 
 ## 💡 Solution
-SuperEye leverages cutting-edge **AI models and the Nx AI Manager platform** to provide **actionable insights and security monitoring**.
+SuperEye leverages cutting-edge **AI models and the Nx AI Manager platform** to provide **actionable insights and security monitoring**.  
 
-🔹 **Edge AI with Nx AI Manager** - Deploys YOLO-based models for **real-time video analytics**.
-🔹 **Modular AI Models** - Supports **pre-trained & custom AI models** for different retail tasks.
-🔹 **Customer Insights** - Analyzes **shopping behavior, trajectories, & heatmaps** for layout optimization.
-🔹 **Regulatory Compliance** - Ensures **safety by monitoring social distancing, mask usage, and exits**.
+🔹 **Edge AI with Nx AI Manager** - Deploys YOLO-based models for **real-time video analytics**.  
+🔹 **Modular AI Models** - Supports **pre-trained & custom AI models** for different retail tasks.  
+🔹 **Customer Insights** - Analyzes **shopping behavior, trajectories, & heatmaps** for layout optimization.  
+🔹 **Regulatory Compliance** - Ensures **safety by monitoring social distancing, mask usage, and exits**.  
 
 ---
 
 ## ⚡ Impact of Nx AI Manager
-✔ **Scalable Edge AI** solution for large-scale retail environments.  
-✔ **Reduced Latency** - Real-time processing for quick decision-making.  
-✔ **Cost-Efficiency** - AI-powered optimization reduces revenue loss.  
-✔ **Seamless AI Model Management** - Deploy & manage models effortlessly.  
-✔ **Plug & Play Flexibility** - Easy integration with existing retail systems.  
+✔ **Scalable Edge AI** solution for large-scale retail environments.    
+✔ **Reduced Latency** - Real-time processing for quick decision-making.    
+✔ **Cost-Efficiency** - AI-powered optimization reduces revenue loss.    
+✔ **Seamless AI Model Management** - Deploy & manage models effortlessly.    
+✔ **Plug & Play Flexibility** - Easy integration with existing retail systems.   
 
 ---
 
@@ -72,19 +72,19 @@ python app.py
 ---
 
 ## 🔭 Future Roadmap
-🔹 **AI Agents for Crowd Analysis** - Handle festival, clearance, & holiday crowds.
-🔹 **Enhanced Sales & Marketing Insights** - Custom AI features to boost conversions.
-🔹 **Smart Shelves & Automated Inventory Management** - AI-powered stock monitoring.
-🔹 **Personalized AI Shopping Assistants** - Virtual assistants for customer engagement.
+🔹 **AI Agents for Crowd Analysis** - Handle festival, clearance, & holiday crowds.  
+🔹 **Enhanced Sales & Marketing Insights** - Custom AI features to boost conversions.  
+🔹 **Smart Shelves & Automated Inventory Management** - AI-powered stock monitoring.  
+🔹 **Personalized AI Shopping Assistants** - Virtual assistants for customer engagement.  
 
 ---
 
 ## 🤝 Contributing
 We welcome contributions! Follow these steps to contribute:
-1. Fork the repository.
-2. Create a new branch (`feature-xyz`).
-3. Commit your changes.
-4. Push to the branch and create a Pull Request.
+1. Fork the repository.  
+2. Create a new branch (`feature-xyz`).  
+3. Commit your changes.  
+4. Push to the branch and create a Pull Request.  
 
 ---
 
@@ -94,7 +94,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 📢 Team 
-Mohamed Fazil |
+Mohamed Fazil  
 Walaa Mohamed
 
 👁️ **SuperEye - Smarter Retail, Safer Stores!** 🚀

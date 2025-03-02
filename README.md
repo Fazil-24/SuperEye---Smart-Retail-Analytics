@@ -58,8 +58,8 @@ supereye_env\Scripts\activate     # For Windows
 
 ### 2️⃣ Clone the Repository & Install Dependencies
 ```bash
-git clone https://github.com/yourusername/SuperEye.git
-cd SuperEye
+https://github.com/Fazil-24/SuperEye---Smart-Retail-Analytics.git
+cd SuperEye---Smart-Retail-Analytics
 pip install -r requirements.txt
 ```
 

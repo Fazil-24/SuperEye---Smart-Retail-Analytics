@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SuperEye Dashboard</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+
+    <!-- Sidebar -->
+    <div class="sidebar">
+        <div class="header">
+            <h2>SuperEye</h2>
+        </div>
+        <ul>
+            <li><a href="/dash">Dashboard</a></li>
+            <li><a href="/">Crowd Count</a></li>
+            <li><a href="/heat">Heatmaps</a></li>
+            <li><a href="/track">Trajectory</a></li>
+            <li><a href="/cart">Cart Detection</a></li>
+            <li><a href="/shoplift">Shop Lifting</a></li>
+        </ul>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content">
+        
+        <!-- SuperEye Title -->
+        <div class="header">
+            <h2>SuperEye</h2>
+            <p>One Eye - Multiple Vision</p>
+        </div>
+
+        <!-- Camera Selection -->
+        <div class="camera-selection">
+            <label>Select the Camera footage:</label>
+            <select>
+                <option>Grocery Section</option>
+                <option>Electronics Section</option>
+                <option>Billing Counter</option>
+            </select>
+        </div>
+
+        <!-- Video Stream -->
+        <h3 class="video-title">Grocery Section Footage</h3>
+        <div class="video-container">
+            <img id="video-stream" src="{{ url_for('static', filename='placeholder.png') }}" alt="Placeholder Image">
+        </div>
+
+        <!-- Button to Run Shoplifting Detection -->
+        <div class="button-container">
+            <button id="run-shoplifting-detection">Run Shoplifting Detection</button>
+        </div>
+
+    </div>
+
+    <script>
+        document.getElementById("run-shoplifting-detection").addEventListener("click", function() {
+            fetch("/run_shoplifting_detection", { method: "POST" })
+                .then(response => {
+                    if (response.ok) {
+                        alert("Shoplifting Detection Started!");
+                        document.getElementById("video-stream").src = "/video_feed_shoplifting";  // Switch to live feed
+                    } else {
+                        alert("Error starting Shoplifting Detection.");
+                    }
+                });
+        });
+    </script>
+
+</body>
+</html>

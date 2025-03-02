@@ -70,7 +70,20 @@ python app.py
 **Access the app in your browser:** `http://127.0.0.1:5000/`
 
 ---
+## 📖 User Guide
 
+# How to Use SuperEye
+
+🔹 **Login to the Dashboard - Access SuperEye’s intuitive analytics dashboard.
+
+🔹 **Monitor Live Feeds - Real-time analysis of customer movement and store insights.
+
+🔹 **View Heatmaps & Trajectories - Understand customer engagement areas.
+
+🔹 **Detect Anomalies - AI-powered alerts for potential shoplifting.
+
+🔹 **Optimize Store Layout - Make data-driven decisions to improve customer flow.
+---
 ## 🔭 Future Roadmap
 🔹 **AI Agents for Crowd Analysis** - Handle festival, clearance, & holiday crowds.  
 🔹 **Enhanced Sales & Marketing Insights** - Custom AI features to boost conversions.  
@@ -80,5 +93,13 @@ python app.py
 ---
 
 ## 🤝 We welcome Contributions to this project.
+🔹 **Fork the Repository - Click the fork button at the top right of the GitHub page.
 
+🔹 **Clone Your Fork - Use git clone <your-fork-url> to clone your forked repo.
+
+🔹 **Create a Feature Branch - git checkout -b feature-name
+
+🔹 **Commit Changes - git commit -m "Added a new feature"
+
+🔹 **Push & Submit a PR - git push origin feature-name and create a Pull Request.
 
